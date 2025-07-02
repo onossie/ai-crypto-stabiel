@@ -1,2 +1,5 @@
 streamlit
-bitvavo-python
+rich
+markdown-it-py
+pygments
+git+https://github.com/bitvavo/python-bitvavo-api.git
